@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # 👋 Hi, I’m Oguzhan Beğik (obegik)
 
