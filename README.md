@@ -32,7 +32,7 @@ I’m a molecular and computational biologist with 10+ years of experience in RN
 
 
 #### 📚 Publications
-> Full list at [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=XHKK54sAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-8663-4586)
+> Full list at [Google Scholar](https://scholar.google.com/citations?user=XHKK54sAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-8663-4586)
 
 ---
 
