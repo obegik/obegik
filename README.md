@@ -12,7 +12,7 @@ I’m a **molecular and computational biologist** with over 10 years of experien
 
 I specialize in translating high-throughput sequencing technologies — like **Nano3P-seq** and **FIRST-seq** — into **clinically actionable tools** for oncology and aging research.
 
-Currently based in **Barcelona, Spain 🇪🇸**, I’m a **Senior Postdoctoral Researcher & Entrepreneur in Residence** at the **Centre for Genomic Regulation (CRG)**, where I lead interdisciplinary projects combining **wet-lab and computational innovation**.
+Currently based in **Barcelona, Spain**, I’m a **Senior Postdoctoral Researcher & Entrepreneur in Residence** at the **Centre for Genomic Regulation (CRG)**, where I lead interdisciplinary projects combining **wet-lab and computational innovation**.
 
 ---
 
@@ -31,10 +31,10 @@ Currently based in **Barcelona, Spain 🇪🇸**, I’m a **Senior Postdoctoral 
 
 | Metric | Description |
 |:--|:--|
-| 🧪 **15+ Publications** | 8 as first author in top-tier journals (Nature Methods, Genome Biology, etc.) |
-| 🧬 **Developer** | Nano3P-seq & FIRST-seq, innovative long-read sequencing methods |
-| 🏆 **Awards** | RNA Society Eclipse Award • Garvan PhD Award • UNSW Medicine PhD Award |
-| 🤝 **Collaborations** | MERCK, IMMAGINA Biotech, and academic–industry consortia |
+|  **15+ Publications** | 8 as first author in top-tier journals (Nature Methods, Genome Biology, etc.) |
+|  **Developer** | Nano3P-seq & FIRST-seq, innovative long-read sequencing methods |
+|  **Awards** | RNA Society Eclipse Award • Garvan PhD Award • UNSW Medicine PhD Award |
+|  **Collaborations** | MERCK, IMMAGINA Biotech, and academic–industry consortia |
 
 ---
 
