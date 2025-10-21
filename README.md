@@ -18,8 +18,8 @@ Currently based in **Barcelona, Spain**, I’m a **Senior Postdoctoral Researche
 
 ###  Core Expertise
 
--  **Computational Oncology** — machine learning for survival modeling, immune profiling  
 -  **RNA & Epitranscriptomics** — nanopore sequencing, RNA dynamics (modification, structure, splicing, polyA tail etc.)
+-  **Computational Oncology** — machine learning for biomarker discovery 
 -  **Multi-omics Integration** — combining RNA-seq, proteomics, and clinical datasets  
 -  **Translational Data Science** — biomarker discovery and precision medicine pipelines  
 -  **Leadership & Funding** — PI/Co-PI on translational grants (€220K+ secured)  
