@@ -3,7 +3,7 @@
 
  **Senior Molecular & Computational Biologist**  
  *RNA Sequencing | Multi-omics Integration | Translational Oncology*  
- *Bridging Machine Learning and Clinical Genomics*
+ *Bridging Machine Learning and Omics*
 
 ---
 
